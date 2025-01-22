@@ -1,11 +1,1 @@
-George K. Langat's GitHub Stats
-C+
-Total Stars Earned:
-4
-Total Commits (2025):
-73
-Total PRs:
-4
-Total Issues:
-3
-Contributed to (last year):
+![georgeklangat's Stats](https://github-readme-stats.vercel.app/api?username=georgeklangat&theme=vue&show_icons=true&hide_border=true&count_private=true)
